@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/contact",
+      "destination": "/"
+    },
+    {
+      "source": "/about",
+      "destination": "/"
+    }
+  ]
+}
