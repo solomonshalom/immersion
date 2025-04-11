@@ -86,7 +86,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 
 			<Text as="div" variant="site-intro" sx={{ display: 'contents' }}>
 			<Heading as="h1" variant="site-intro" sx={{ fontWeight: 'bold' }}>
-				We&rsquo;re JusticeRest, and we craft tools that promote equality, morality and justice 
+				A letter to Microsoft's Azure
 				<Link href="/trade" sx={{ textDecoration: 'none' }}>
 					<span role="img" aria-label="palm tree emoji">🌴</span>
 				</Link> 
@@ -95,10 +95,18 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 				<br></br>
 				{' '}
 				<Heading as="h2" variant="site-intro">
-					We&apos;re building the <Link href="#">DropBox of Law</Link>! Drop your cases, we&apos;ll pick, sort, and analyze&apos;em for you <span role="img" aria-label="wink emoji">😉</span>!{' '}
+					Hello! Microsoft,
 				</Heading>{' '}
 				<br></br>
 				<br></br>
+				<Heading as="h2" variant="site-intro">
+				Hope you're doing great!
+				</Heading>{' '}
+				<br></br>
+				<br></br>
+				<Heading as="h2" variant="site-intro">
+				Hope you're doing great!
+				</Heading>{' '}
 				<b>Don&apos;t be shy <span role="img" aria-label="face with hand over mouth emoji expressing shyness or surprise">🤭</span></b>
 				<br></br>
 				<br></br>
