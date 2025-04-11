@@ -5,9 +5,6 @@ import theme from '../constants/theme'
 import components from '../components/MDXComponents'
 import Layout from '../components/Layout'
 
-// Import KaTeX for LaTeX math
-import 'katex/dist/katex.min.css' // ✅ Add this line
-
 // Import fonts
 import '../assets/fonts/Webfonts/Inter/inter.css'
 import '../assets/fonts/Webfonts/Dank/dank-mono.css'

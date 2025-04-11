@@ -4,14 +4,11 @@ const withTM = require('next-transpile-modules')([
 ])
 
 const smartypants = require('@silvenon/remark-smartypants')
-const remarkMath = require('remark-math')
-const rehypeKatex = require('rehype-katex')
 
 const withMDX = require('@next/mdx')({
 	extension: /\.mdx?$/,
 	options: {
-		remarkPlugins: [smartypants, remarkMath],
-		rehypePlugins: [rehypeKatex],
+		remarkPlugins: [smartypants],
 	},
 })
 
