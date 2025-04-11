@@ -119,7 +119,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					Before you jump on me, trust me−I am not crazy, it works & I got proof (LaTeX included—because some stories are best told in equations)🫡
 					<br></br>
 					<br></br>
-					Read it <a href="https://docs.google.com/document/d/1tY8X07giti0q_EicZRikaBbr_Mz_49_M1UBKemJxldY/edit?usp=sharing">here</a>
+					Read it <a href="https://docs.google.com/document/d/1tY8X07giti0q_EicZRikaBbr_Mz_49_M1UBKemJxldY/edit?usp=sharing">here</a> 👀
 					<br></br>
 					<br></br>
 					With Warm Regards,
