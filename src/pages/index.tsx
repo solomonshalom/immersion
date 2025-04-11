@@ -100,7 +100,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 				<br></br>
 				<br></br>
 				<Heading as="h2" variant="site-intro">
-				Hope you're doing great!
+				Hope you&apos;re doing great!
 				</Heading>{' '}
 				<br></br>
 				<br></br>
