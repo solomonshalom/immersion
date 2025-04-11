@@ -1,6 +1,6 @@
 # LTM
 
-A letter to microsft on cooling their datacenters!
+A letter to Microsoft on cooling their data centers!
 
 Built upon Alec Lowes's v4 [Portfolio](https://github.com/lowmess/lowmess.com/tree/v4)
 
