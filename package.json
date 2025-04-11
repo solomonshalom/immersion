@@ -13,17 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/solomonshalom/immersion"
   },
-  "keywords": [
-    "portfolio",
-    "frontend",
-    "design"
-  ],
-  "author": "Alec Lomas",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/solomonshalom/letter/issues"
-  },
-  "homepage": "https://lettertomicrosoft.xyz",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
