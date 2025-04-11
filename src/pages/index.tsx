@@ -120,7 +120,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					<br></br>
 					<br></br>
 					Love,
-					<br> 
+					<br></br>
 					<a href="https://solomonlijo.com">Solomon</a>
 				</Text>
 			</Text>
