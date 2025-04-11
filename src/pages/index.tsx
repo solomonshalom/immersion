@@ -105,7 +105,6 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 				<br></br>
 				<br></br>
 				<Heading as="h2" variant="site-intro">
-				Hope you're doing great!
 				</Heading>{' '}
 				<b>Don&apos;t be shy <span role="img" aria-label="face with hand over mouth emoji expressing shyness or surprise">🤭</span></b>
 				<br></br>
