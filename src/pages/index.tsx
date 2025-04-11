@@ -102,7 +102,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					Heard you needed some help with that electricity bill of yours?
 					<br></br>
 					<br></br>
-					Let me guess, those beefy GPU&apos;s is sucking more than you&apos;d want it?
+					Let me guess, those beefy GPU&apos;s is sucking more electricity than you&apos;d want it?
 					<br></br>
 					<br></br>
 					Oh! Wait, is it also actively blowing up your employee&apos;s ears and also giving them a heat stroke?
@@ -110,7 +110,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					<br></br>
 					Well, Good Sir, what if I told you there&apos;s a system that can cut down the costs (especially in this economy), cool these servers, and not actively hunt down your employees?<br></br><br></br>
 
-					If you&apos;re up for it, I got two words:<br></br>
+					If you&apos;re up for it, I have two words:<br></br>
 					<b>Immersion Cooling</b>.<br></br><br></br>
 
 					The idea is simple yet powerful—immerse entire server racks in a certain type of liquid that efficiently pulls heat away from the hardware.
@@ -120,6 +120,9 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					<br></br>
 					<br></br>
 					Read it <a href="https://docs.google.com/document/d/1tY8X07giti0q_EicZRikaBbr_Mz_49_M1UBKemJxldY/edit?usp=sharing">here</a> 👀
+					<br></br>
+					<br></br>
+					P.S. The source code for this site can be found <a href="https://github.com/solomonshalom/lettertomicrosoft.xyz">here</a>
 					<br></br>
 					<br></br>
 					With Warm Regards,
