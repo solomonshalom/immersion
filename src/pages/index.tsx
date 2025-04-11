@@ -100,18 +100,18 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					Heard you needed some help with that electricity bill of yours?
 					<br></br>
 					<br></br>
-					Let me guess, those beefy GPU's is sucking more than you'd want it?
+					Let me guess, those beefy GPU&apos;s is sucking more than you&apos;d want it?
 					<br></br>
 					<br></br>
-					Oh! Wait, is it also actively blowing uo your employee's ears and also giving them a heat stroke?
+					Oh! Wait, is it also actively blowing uo your employee&apos;s ears and also giving them a heat stroke?
 					<br></br>
 					<br></br>
-					Well, Good Sir, what if I told you there&apos;s a system that can cut down the costs (especially in this economy), cool'em servers, and not actively hunt down your employees?<br></br><br></br>
+					Well, Good Sir, what if I told you there&apos;s a system that can cut down the costs (especially in this economy), cool&apos;em servers, and not actively hunt down your employees?<br></br><br></br>
 
 					If you&apos;re up for it, I got two words:<br></br>
 					<b>Immersion Cooling</b>.<br></br><br></br>
 
-					The idea is simple yet powerful—immerse entire server racks in a non-conductive liquid that efficiently pulls heat away from the hardware.<br></br>
+					The idea is simple yet powerful—immerse entire server racks in a certain type of liquid that efficiently pulls heat away from the hardware.<br></br>
 					<br></br>
 					<br></br>
 					Before you jump on me, trust me−I am not crazy, it works & I got proof (LaTeX included—because some stories are best told in equations)🫡
