@@ -30,7 +30,7 @@ const BlogPost: React.FC<BlogPostProps> = ({ meta, children }) => {
 
 				<meta name="description" content={description} />
 
-				<meta name="twitter:site" content="@justicerest" />
+				<meta name="twitter:site" content="@letter" />
 
 				<meta name="twitter:card" content="summary" />
 

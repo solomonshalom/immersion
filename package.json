@@ -1,7 +1,7 @@
 {
-  "name": "justicerest",
+  "name": "letter",
   "version": "4.3.0",
-  "description": "The home on the internet for JusticeRest",
+  "description": "The home on the internet for letter",
   "scripts": {
     "start": "next dev",
     "prebuild": "node scripts/generate-sitemap && node scripts/generate-rss",
@@ -21,9 +21,9 @@
   "author": "Alec Lomas",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/solomonshalom/justicerest/issues"
+    "url": "https://github.com/solomonshalom/letter/issues"
   },
-  "homepage": "https://justice.rest",
+  "homepage": "https://lettertomicrosoft.xyz",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",

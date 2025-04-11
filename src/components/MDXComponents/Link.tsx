@@ -11,7 +11,7 @@ const Link: React.FC = (props) => (
 				},
 
 				"&[href^='/']::after": {
-					content: `' (https://justice.rest' attr(href) ')'`,
+					content: `' (https://lettertomicrosoft.xyz' attr(href) ')'`,
 					fontSize: 1,
 				},
 
