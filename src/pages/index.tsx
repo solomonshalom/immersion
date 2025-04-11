@@ -94,7 +94,9 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 				<br></br><br></br>
 
 				<Text as="p" variant="site-intro">
-					Hello! Microsoft,<br></br>
+					Hello! Microsoft,
+					<br></br>
+					<br></br>
 					Hope you&apos;re doing great!<br></br><br></br>
 
 					Heard you needed some help with that electricity bill of yours?
@@ -117,7 +119,9 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					Before you jump on me, trust me−I am not crazy, it works & I got proof (LaTeX included—because some stories are best told in equations)🫡
 					<br></br>
 					<br></br>
-					Download the PDF <Link href="#">here</Link> or drop a text at <Link href="mailto:solomon@justice.rest">solomon@justice.rest</Link> — totally down to chat!
+					Love,
+					<br> 
+					<a href="https://solomonlijo.com">Solomon</a>
 				</Text>
 			</Text>
 		</Container>
