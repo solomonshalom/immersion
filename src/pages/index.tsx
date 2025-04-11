@@ -114,7 +114,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					The idea is simple yet powerful—immerse entire server racks in a non-conductive liquid that efficiently pulls heat away from the hardware.<br></br>
 					<br></br>
 					<br></br>
-					Before you jump on me, I have the math (LaTeX included—because some stories are best told in equations)🫡
+					Before you jump on me, trust me−I am not crazy, it works & I got proof (LaTeX included—because some stories are best told in equations)🫡
 					<br></br>
 					<br></br>
 					Download the PDF <Link href="#">here</Link> or drop a text at <Link href="mailto:solomon@justice.rest">solomon@justice.rest</Link> — totally down to chat!
