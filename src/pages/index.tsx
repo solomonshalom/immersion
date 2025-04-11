@@ -113,7 +113,7 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					If you&apos;re up for it, I got two words:<br></br>
 					<b>Immersion Cooling</b>.<br></br><br></br>
 
-					The idea is simple yet powerful—immerse entire server racks in a certain type of liquid that efficiently pulls heat away from the hardware.<br></br>
+					The idea is simple yet powerful—immerse entire server racks in a certain type of liquid that efficiently pulls heat away from the hardware.
 					<br></br>
 					<br></br>
 					Before you jump on me, trust me−I am not crazy, it works & I got proof (LaTeX included—because some stories are best told in equations)🫡
