@@ -105,10 +105,10 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					Let me guess, those beefy GPU&apos;s is sucking more than you&apos;d want it?
 					<br></br>
 					<br></br>
-					Oh! Wait, is it also actively blowing uo your employee&apos;s ears and also giving them a heat stroke?
+					Oh! Wait, is it also actively blowing up your employee&apos;s ears and also giving them a heat stroke?
 					<br></br>
 					<br></br>
-					Well, Good Sir, what if I told you there&apos;s a system that can cut down the costs (especially in this economy), cool&apos;em servers, and not actively hunt down your employees?<br></br><br></br>
+					Well, Good Sir, what if I told you there&apos;s a system that can cut down the costs (especially in this economy), cool these servers, and not actively hunt down your employees?<br></br><br></br>
 
 					If you&apos;re up for it, I got two words:<br></br>
 					<b>Immersion Cooling</b>.<br></br><br></br>
@@ -122,9 +122,9 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					Download it <a href="https://drive.google.com">here</a>
 					<br></br>
 					<br></br>
-					Love,
+					With Warm Regards,
 					<br></br>
-					<a href="https://solomonlijo.com">Solomon</a>
+					<a href="https://solomonlijo.com">Solomon Shalom Lijo</a>
 				</Text>
 			</Text>
 		</Container>
