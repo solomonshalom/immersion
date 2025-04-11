@@ -4,7 +4,7 @@
   "description": "The home on the internet for letter",
   "scripts": {
     "start": "next dev",
-    "prebuild": "node scripts/generate-sitemap && node scripts/generate-rss",
+    "prebuild": "node scripts/generate-sitemap",
     "build": "next build",
     "serve": "next start",
     "prepare": "husky install"
