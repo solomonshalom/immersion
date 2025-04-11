@@ -119,6 +119,9 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 					Before you jump on me, trust me−I am not crazy, it works & I got proof (LaTeX included—because some stories are best told in equations)🫡
 					<br></br>
 					<br></br>
+					Download it <a href="https://drive.google.com">here</a>
+					<br></br>
+					<br></br>
 					Love,
 					<br></br>
 					<a href="https://solomonlijo.com">Solomon</a>
