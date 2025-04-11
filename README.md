@@ -3,7 +3,7 @@
 ## Installing
 
 ```bash
-git clone https://github.com/solomonshalom/justice.rest
+git clone https://github.com/solomonshalom/immersion
 cd justice.rest
 npm i
 ```

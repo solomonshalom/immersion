@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/solomonshalom/justice.rest"
+    "url": "git+https://github.com/solomonshalom/immersion"
   },
   "keywords": [
     "portfolio",
@@ -34,7 +34,11 @@
     "@silvenon/remark-smartypants": "^1.0.0",
     "date-fns": "^2.30.0",
     "github-slugger": "^1.4.0",
+    "katex":"^0.16.22",
+    "react-katex":"^3.0.1",
     "globby": "^11.1.0",
+    "rehype-katex":"^7.0.1",
+    "remark-math":"^6.0.0",
     "lowmess-prism": "^2.0.2",
     "mdx-embed": "^1.0.0",
     "next": "^12.1.6",

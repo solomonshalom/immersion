@@ -85,33 +85,37 @@ const IndexPage: React.FC<IndexProps> = ({ stats }) => {
 			</Text>
 
 			<Text as="div" variant="site-intro" sx={{ display: 'contents' }}>
-			<Heading as="h1" variant="site-intro" sx={{ fontWeight: 'bold' }}>
-				A letter to Microsoft&apos;s Azure
-				<Link href="/trade" sx={{ textDecoration: 'none' }}>
-					<span role="img" aria-label="palm tree emoji">🌴</span>
-				</Link> 
-			</Heading>
-				<br></br>
-				<br></br>
-				{' '}
-				<Heading as="h2" variant="site-intro">
-					Hello! Microsoft,
-				</Heading>{' '}
-				<br></br>
-				<br></br>
-				<Heading as="h2" variant="site-intro">
-				Hope you&apos;re doing great!
-				</Heading>{' '}
-				<br></br>
-				<br></br>
-				<Heading as="h2" variant="site-intro">
-				</Heading>{' '}
-				<b>Don&apos;t be shy <span role="img" aria-label="face with hand over mouth emoji expressing shyness or surprise">🤭</span></b>
-				<br></br>
-				<br></br>
+				<Heading as="h1" variant="site-intro" sx={{ fontWeight: 'bold' }}>
+					A letter to Microsoft&apos;s Azure
+					<Link href="/trade" sx={{ textDecoration: 'none' }}>
+						<span role="img" aria-label="palm tree emoji">🌴</span>
+					</Link> 
+				</Heading>
+				<br></br><br></br>
+
 				<Text as="p" variant="site-intro">
-					Join our <Link href="https://waitlist.justice.rest">waitlist</Link> here or if you want to know more,{' '}
-					drop a DM [at] <Link href="mailto:solomon@justice.rest">solomon@justice.rest</Link>
+					Hello! Microsoft,<br></br>
+					Hope you&apos;re doing great!<br></br><br></br>
+
+					Heard that AI workloads are driving those electricity bills—and heat levels—through the roof.<br></br>
+					What if I told you there&apos;s a solution that can cut costs, cool systems more efficiently, and even bring peace to your employees&apos; ears?<br></br><br></br>
+
+					If you&apos;re up for it, I got two words for you:<br></br>
+					<b>Immersion Cooling</b>.<br></br><br></br>
+
+					The idea is simple yet powerful—immerse entire server racks in a non-conductive liquid that efficiently pulls heat away from the hardware.<br></br>
+					No more fans screaming.<br></br>
+					No more thermal throttling.<br></br>
+					Just stable, silent, and scalable performance.<br></br><br></br>
+
+					But how does it work?<br></br><br></br>
+
+					There are two widely-accepted pathways to immersion cooling:<br></br>
+					the <i>single-phase</i> or the <i>two-phase</i> immersion cooling system.<br></br><br></br>
+
+					Want the deep dive? We&apos;ve got the math, science, and setup guides ready (LaTeX included—because some stories are best told in equations).<br></br><br></br>
+
+					Join our <Link href="https://waitlist.justice.rest">waitlist</Link> or drop a line at <Link href="mailto:solomon@justice.rest">solomon@justice.rest</Link> — we&apos;re happy to chat.
 				</Text>
 			</Text>
 		</Container>
